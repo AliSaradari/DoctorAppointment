@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DoctorAppointment.Services.Doctors.Contracts.Dto
+namespace DoctorAppointment.Services.Doctors.Contracts.Dtos
 {
     public class GetDoctorDto
     {

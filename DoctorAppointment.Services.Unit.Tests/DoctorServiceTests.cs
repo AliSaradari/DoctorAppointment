@@ -3,7 +3,7 @@ using DoctorAppointment.Entities.Doctors;
 using DoctorAppointment.Persistance.EF;
 using DoctorAppointment.Persistance.EF.Doctors;
 using DoctorAppointment.Services.Doctors;
-using DoctorAppointment.Services.Doctors.Contracts.Dto;
+using DoctorAppointment.Services.Doctors.Contracts.Dtos;
 using DoctorAppointment.Services.Doctors.Exeptions;
 using DoctorAppointment.Test.Tools.Infrastructure.DatabaseConfig.Unit;
 using FluentAssertions;
