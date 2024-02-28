@@ -20,16 +20,39 @@ public class DoctorAppService : DoctorService
     }
 
     public async Task Add(AddDoctorDto dto)
-    {
+    {        
+        var checkDuplicatedNationalCode = _repository.IsExistNationalCode(dto.NationalCode);
+        if (checkDuplicatedNationalCode == true)
+        {
+            throw new CannotAddDoctorWithDuplicatedNationalCodeExeption();
+        }
         var doctor = new Doctor()
         {
             FirstName = dto.FirstName,
             LastName = dto.LastName,
-            Field = dto.Field
+            Field = dto.Field,
+            NationalCode = dto.NationalCode,
+            
         };
 
         _repository.Add(doctor);
         await _unitOfWork.Complete();
+    }
+
+    public async Task Delete(int id)
+    {
+        var doctor = await _repository.FindById(id);
+        if (doctor == null)
+        {
+            throw new DoctorWithThisIdDoesntExistExeption();
+        }
+        _repository.Delete(id);
+        await _unitOfWork.Complete();
+    }
+
+    public List<GetDoctorDto> GetAll()
+    {
+        return _repository.GetAll();
     }
 
     public async Task Update(int id, UpdateDoctorDto dto)
@@ -42,6 +65,7 @@ public class DoctorAppService : DoctorService
         doctor.FirstName = dto.FirstName;
         doctor.LastName = dto.LastName;
         doctor.Field = dto.Field;
+        doctor.NationalCode = dto.NationalCode;
 
         await _unitOfWork.Complete();
     }

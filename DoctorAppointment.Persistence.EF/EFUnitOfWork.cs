@@ -1,5 +1,4 @@
 using DoctorAppointment.Contracts.Interfaces;
-using DoctorAppointment.Persistence.EF;
 
 namespace DoctorAppointment.Persistance.EF;
 

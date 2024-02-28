@@ -1,7 +1,7 @@
 using DoctorAppointment.Entities.Doctors;
 using Microsoft.EntityFrameworkCore;
 
-namespace DoctorAppointment.Persistence.EF;
+namespace DoctorAppointment.Persistance.EF;
 
 public class EFDataContext : DbContext
 {
@@ -9,7 +9,7 @@ public class EFDataContext : DbContext
         this(new DbContextOptionsBuilder().UseSqlServer(connectionString).Options)
     { }
 
-     
+
     public EFDataContext(DbContextOptions options) : base(options)
     {
     }
