@@ -1,0 +1,59 @@
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.deps.json
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.AssemblyReference.cache
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.AssemblyInfoInputs.cache
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.AssemblyInfo.cs
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.CoreCompileInputs.cache
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.CopyComplete
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\refint\DoctorAppointment.Persistence.EF.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\ref\DoctorAppointment.Persistence.EF.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Services.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.deps.json
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Services.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.AssemblyReference.cache
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.AssemblyInfoInputs.cache
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.AssemblyInfo.cs
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.CoreCompileInputs.cache
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.sourcelink.json
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.CopyComplete
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\refint\DoctorAppointment.Persistence.EF.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\ref\DoctorAppointment.Persistence.EF.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.deps.json
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Services.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.AssemblyReference.cache
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.AssemblyInfoInputs.cache
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.AssemblyInfo.cs
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.CoreCompileInputs.cache
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.sourcelink.json
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.csproj.CopyComplete
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\refint\DoctorAppointment.Persistence.EF.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Persistence.EF\obj\Debug\net6.0\ref\DoctorAppointment.Persistence.EF.dll

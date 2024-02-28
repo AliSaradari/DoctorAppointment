@@ -1,0 +1,53 @@
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.deps.json
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.AssemblyReference.cache
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.AssemblyInfoInputs.cache
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.AssemblyInfo.cs
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.CoreCompileInputs.cache
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.CopyComplete
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\refint\DoctorAppointment.Services.dll
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.pdb
+C:\Users\layay\RiderProjects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\ref\DoctorAppointment.Services.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.deps.json
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.AssemblyReference.cache
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.AssemblyInfoInputs.cache
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.AssemblyInfo.cs
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.CoreCompileInputs.cache
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.sourcelink.json
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.CopyComplete
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\refint\DoctorAppointment.Services.dll
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\Taav Sample Projects\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\ref\DoctorAppointment.Services.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.deps.json
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.AssemblyReference.cache
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.AssemblyInfoInputs.cache
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.AssemblyInfo.cs
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.CoreCompileInputs.cache
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.sourcelink.json
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.csproj.CopyComplete
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\refint\DoctorAppointment.Services.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Services\obj\Debug\net6.0\ref\DoctorAppointment.Services.dll
