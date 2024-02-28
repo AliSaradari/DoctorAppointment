@@ -1,14 +1,10 @@
 ﻿using DoctorAppointment.Contracts.Interfaces;
 using DoctorAppointment.Entities.Patients;
+using DoctorAppointment.Services.Doctors.Contracts.Dtos;
 using DoctorAppointment.Services.Doctors.Exeptions;
 using DoctorAppointment.Services.Patients.Contracts;
 using DoctorAppointment.Services.Patients.Contracts.Dtos;
 using DoctorAppointment.Services.Patients.Exeptions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DoctorAppointment.Services.Patients
 {
@@ -38,6 +34,39 @@ namespace DoctorAppointment.Services.Patients
             };
             _repository.Add(patient);
             await _unitOfWork.Complete();
+        }
+
+        public async Task Delete(int id)
+        {
+            var patient = await _repository.FindById(id);
+            if (patient == null)
+            {
+                throw new PatientWithThisIdDoesntExistExeption();
+            }
+            _repository.Delete(id);
+            await _unitOfWork.Complete();
+        }
+
+        public List<GetPatientDto> GetAll()
+        {
+            return _repository.GetAll();
+        }
+
+
+        public async Task Update(int id, UpdatePatientDto dto)
+        {
+            var patient = await _repository.FindById(id);
+            if (patient == null)
+            {
+                throw new PatientWithThisIdDoesntExistExeption();
+            }
+            patient.FirstName = dto.FirstName;
+            patient.LastName = dto.LastName;
+            patient.NationalCode = dto.NationalCode;
+
+            await _unitOfWork.Complete();
+
+
         }
     }
 }
