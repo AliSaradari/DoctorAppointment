@@ -1,5 +1,4 @@
-﻿using DoctorAppointment.Services.Doctors.Contracts.Dtos;
-using DoctorAppointment.Services.Patients.Contracts.Dtos;
+﻿using DoctorAppointment.Services.Patients.Contracts.Dtos;
 
 namespace DoctorAppointment.Services.Patients.Contracts
 {

@@ -36,3 +36,12 @@ D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\obj\Debug\net6.0\Docto
 D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\obj\Debug\net6.0\refint\DoctorAppointment.Test.Tools.dll
 D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\obj\Debug\net6.0\DoctorAppointment.Test.Tools.pdb
 D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\obj\Debug\net6.0\ref\DoctorAppointment.Test.Tools.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Contracts.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Entities.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Services.dll
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Persistence.EF.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Services.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Contracts.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\bin\Debug\net6.0\DoctorAppointment.Entities.pdb
+D:\VS Save\DoctorAppointment\DoctorAppointment.Test.Tools\obj\Debug\net6.0\DoctorAppointment.Test.Tools.csproj.CopyComplete

@@ -1,5 +1,4 @@
-﻿using DoctorAppointment.Entities.Doctors;
-using DoctorAppointment.Entities.Patients;
+﻿using DoctorAppointment.Entities.Patients;
 using DoctorAppointment.Services.Patients.Contracts.Dtos;
 
 namespace DoctorAppointment.Services.Patients.Contracts

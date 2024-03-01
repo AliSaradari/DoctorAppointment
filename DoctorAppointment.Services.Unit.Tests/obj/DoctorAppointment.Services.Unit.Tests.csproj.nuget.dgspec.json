@@ -366,7 +366,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\VS Save\\DoctorAppointment\\DoctorAppointment.Persistence.EF\\DoctorAppointment.Persistence.EF.csproj": {
+                "projectPath": "D:\\VS Save\\DoctorAppointment\\DoctorAppointment.Persistence.EF\\DoctorAppointment.Persistence.EF.csproj"
+              },
+              "D:\\VS Save\\DoctorAppointment\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj": {
+                "projectPath": "D:\\VS Save\\DoctorAppointment\\DoctorAppointment.Services\\DoctorAppointment.Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
