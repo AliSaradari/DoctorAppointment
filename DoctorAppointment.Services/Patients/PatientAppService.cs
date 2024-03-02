@@ -22,7 +22,7 @@ namespace DoctorAppointment.Services.Patients
             var checkDuplicatedNationalCode = _repository.IsExistNationalCode(dto.NationalCode);
             if (checkDuplicatedNationalCode == true)
             {
-                throw new CannotAddPatientWithDuplicatedNationalCodeExeption();
+                throw new CannotAddPatientWithDuplicatedNationalCodeException();
             }
             var patient = new Patient()
             {
@@ -39,7 +39,7 @@ namespace DoctorAppointment.Services.Patients
             var patient = await _repository.FindById(id);
             if (patient == null)
             {
-                throw new PatientWithThisIdDoesntExistExeption();
+                throw new PatientWithThisIdDoesntExistException();
             }
             _repository.Delete(id);
             await _unitOfWork.Complete();
@@ -56,7 +56,7 @@ namespace DoctorAppointment.Services.Patients
             var patient = await _repository.FindById(id);
             if (patient == null)
             {
-                throw new PatientWithThisIdDoesntExistExeption();
+                throw new PatientWithThisIdDoesntExistException();
             }
             patient.FirstName = dto.FirstName;
             patient.LastName = dto.LastName;

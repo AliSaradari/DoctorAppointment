@@ -1,6 +1,6 @@
 ﻿namespace DoctorAppointment.Services.Doctors.Exeptions
 {
-    public class DoctorWithThisIdDoesntExistExeption : Exception
+    public class DoctorWithThisIdDoesntExistException : Exception
     {
     }
 }

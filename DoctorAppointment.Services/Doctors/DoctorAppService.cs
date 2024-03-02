@@ -24,7 +24,7 @@ public class DoctorAppService : DoctorService
         var checkDuplicatedNationalCode = _repository.IsExistNationalCode(dto.NationalCode);
         if (checkDuplicatedNationalCode == true)
         {
-            throw new CannotAddDoctorWithDuplicatedNationalCodeExeption();
+            throw new CannotAddDoctorWithDuplicatedNationalCodeException();
         }
         var doctor = new Doctor()
         {
@@ -44,7 +44,7 @@ public class DoctorAppService : DoctorService
         var doctor = await _repository.FindById(id);
         if (doctor == null)
         {
-            throw new DoctorWithThisIdDoesntExistExeption();
+            throw new DoctorWithThisIdDoesntExistException();
         }
         _repository.Delete(id);
         await _unitOfWork.Complete();
@@ -60,7 +60,7 @@ public class DoctorAppService : DoctorService
         var doctor = await _repository.FindById(id);
         if(doctor == null)
         {
-            throw new DoctorWithThisIdDoesntExistExeption();
+            throw new DoctorWithThisIdDoesntExistException();
         }
         doctor.FirstName = dto.FirstName;
         doctor.LastName = dto.LastName;
