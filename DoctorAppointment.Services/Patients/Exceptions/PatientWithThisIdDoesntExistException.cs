@@ -1,4 +1,4 @@
-﻿namespace DoctorAppointment.Services.Patients.Exeptions
+﻿namespace DoctorAppointment.Services.Patients.Exceptions
 {
     public class PatientWithThisIdDoesntExistException : Exception
     {

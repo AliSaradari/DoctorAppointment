@@ -2,7 +2,7 @@ using DoctorAppointment.Contracts.Interfaces;
 using DoctorAppointment.Entities.Doctors;
 using DoctorAppointment.Services.Doctors.Contracts;
 using DoctorAppointment.Services.Doctors.Contracts.Dtos;
-using DoctorAppointment.Services.Doctors.Exeptions;
+using DoctorAppointment.Services.Doctors.Exceptions;
 
 namespace DoctorAppointment.Services.Doctors;
 

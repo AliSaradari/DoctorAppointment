@@ -1,4 +1,4 @@
-﻿namespace DoctorAppointment.Services.Doctors.Exeptions
+﻿namespace DoctorAppointment.Services.Doctors.Exceptions
 {
     public class CannotAddDoctorWithDuplicatedNationalCodeException : Exception
     {

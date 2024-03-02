@@ -10,9 +10,9 @@ public class DoctorEntityMap : IEntityTypeConfiguration<Doctor>
     {
         builder.HasKey(_ => _.Id);
         builder.Property(_ => _.Id).ValueGeneratedOnAdd();
-        builder.Property(_ => _.FirstName).IsRequired();
-        builder.Property(_ => _.LastName).IsRequired();
-        builder.Property(_ => _.Field).IsRequired();
-        builder.Property(_ => _.NationalCode).IsRequired();
+        builder.Property(_ => _.FirstName).IsRequired().HasMaxLength(50);
+        builder.Property(_ => _.LastName).IsRequired().HasMaxLength(50);
+        builder.Property(_ => _.Field).IsRequired().HasMaxLength(50);
+        builder.Property(_ => _.NationalCode).IsRequired().HasMaxLength(50);
     }
 }
